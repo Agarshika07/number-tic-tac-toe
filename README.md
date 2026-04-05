@@ -1,4 +1,4 @@
-# number-tic-tac-toe-
+# number-tic-tac-toe
 A 2-player Number Tic-Tac-Toe game built in Python using loops, functions, input validation, and winner-checking logic.
 ## About the Game
 This is a terminal-based Python game inspired by Tic-Tac-Toe.
